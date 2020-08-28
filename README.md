@@ -1,2 +1,2 @@
 # EditableUITextViewHighlights
-UITextView experimental link handler that highlight phones/emails/links on fly
+UITextView experimental link handler that highlights phones/emails/links on fly
